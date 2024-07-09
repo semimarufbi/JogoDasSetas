@@ -46,4 +46,9 @@ public class GameManager : MonoBehaviour
             GerarSetas();
         }
     }
+    void GerarSetas() 
+    { 
+     teclaAtual = 0;
+        
+    }
 }
